@@ -10,4 +10,4 @@
   
 <img width="337" alt="image" src="https://github.com/user-attachments/assets/4f7ebb41-45e3-4dcf-afe1-9165eb2b8882"/>
 
-![녹음 2025-07-27 073022](https://github.com/user-attachments/assets/5d7cbbb8-1aaa-4ec8-872c-034ae8674b3e)
+![녹음 2025-07-27 073623](https://github.com/user-attachments/assets/d73f446e-44b0-43ae-9350-caf0311a89cd)
