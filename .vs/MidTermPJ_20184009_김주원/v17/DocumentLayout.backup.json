@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\klgg1\\Desktop\\PolygonMaker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E87BFAC1-03D6-4381-BF1B-17BA1B89A1B7}|MidTermPJ_20184009_\uAE40\uC8FC\uC6D0\\MidTermPJ_20184009_\uAE40\uC8FC\uC6D0.vcxproj|C:\\Users\\klgg1\\Desktop\\PolygonMaker\\MidTermPJ_20184009_\uAE40\uC8FC\uC6D0\\DrawingPolygon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E87BFAC1-03D6-4381-BF1B-17BA1B89A1B7}|MidTermPJ_20184009_\uAE40\uC8FC\uC6D0\\MidTermPJ_20184009_\uAE40\uC8FC\uC6D0.vcxproj|solutionrelative:MidTermPJ_20184009_\uAE40\uC8FC\uC6D0\\DrawingPolygon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DrawingPolygon.cpp",
+              "DocumentMoniker": "C:\\Users\\klgg1\\Desktop\\PolygonMaker\\MidTermPJ_20184009_\uAE40\uC8FC\uC6D0\\DrawingPolygon.cpp",
+              "RelativeDocumentMoniker": "MidTermPJ_20184009_\uAE40\uC8FC\uC6D0\\DrawingPolygon.cpp",
+              "ToolTip": "C:\\Users\\klgg1\\Desktop\\PolygonMaker\\MidTermPJ_20184009_\uAE40\uC8FC\uC6D0\\DrawingPolygon.cpp",
+              "RelativeToolTip": "MidTermPJ_20184009_\uAE40\uC8FC\uC6D0\\DrawingPolygon.cpp",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-26T19:53:44.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
